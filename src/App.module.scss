@@ -1,0 +1,10 @@
+$bgColor : #3ea9f5;
+
+.container {
+    background-color: $bgColor;
+    max-width: 1430px;
+    min-height: 650px;
+    margin: 0 auto;
+    position: relative;
+    padding: 20px 20px;
+}
